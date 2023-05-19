@@ -1,18 +1,11 @@
-## Getting Started
+## 介绍
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+该项目主要是从 0 到 1 手写一个红黑树的实现，核心逻辑包括红黑树的插入与删除。
 
-## Folder Structure
+为了验证红黑树的正确性，也提供了很多的测试用例，用于测试插入与删除的各种 case。
 
-The workspace contains two folders by default, where:
+里面还实现了使用字符串构造二叉树，红黑树的校验等功能。
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 参考文档
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+[bilibili视频](https://www.bilibili.com/list/4564101?tid=0&sort_field=pubtime&spm_id_from=333.999.0.0&oid=933901562&bvid=BV1HT4y1d7PN)
